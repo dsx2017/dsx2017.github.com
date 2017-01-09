@@ -1,8 +1,9 @@
 html {
   font-size: 20px;
+  width: 100%;
 }
 html body {
-  width: 16rem;
+  width: 100%;
 }
 html body .wrap {
   width: 100%;
@@ -36,7 +37,7 @@ html body .wrap .mian {
   width: 16rem;
 }
 html body .wrap .mian .current-location {
-  width: 16rem;
+  width: 100%;
   height: 2.325rem;
   background-color: #f8f8f8;
   position: relative;
@@ -60,7 +61,6 @@ html body .wrap .mian .current-location strong {
   left: 1.6rem;
   top: 0.75rem;
   height: 0.8rem;
-  width: 16rem;
 }
 html body .wrap .mian .current-location strong {
   left: 5.75rem;
